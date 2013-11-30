@@ -1,0 +1,7 @@
+ros-hydro-roboteq-diagnostics (0.1.0-0quantal) quantal; urgency=high
+
+  * Basic catkin conversion, some include file rearrangement and cleanup.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 28 Nov 2013 05:00:00 -0000
+
+
