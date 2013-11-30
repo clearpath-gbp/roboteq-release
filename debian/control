@@ -1,0 +1,12 @@
+Source: ros-hydro-roboteq-diagnostics
+Section: misc
+Priority: extra
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Build-Depends: debhelper (>= 7.0.50~), ros-hydro-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-hydro-roboteq-diagnostics
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-diagnostic-msgs, ros-hydro-roboteq-msgs, ros-hydro-rospy
+Description: Republish basic Roboteq motor controller data to the standard ROS diagnostics topic.
