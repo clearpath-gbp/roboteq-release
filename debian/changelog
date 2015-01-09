@@ -1,0 +1,20 @@
+ros-indigo-roboteq-diagnostics (0.1.2-0saucy) saucy; urgency=high
+
+  * Add queue_size, fixes #4 <https://github.com/g/roboteq//issues/4>
+  * Contributors: Mike Purvis
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Fri, 09 Jan 2015 05:00:00 -0000
+
+ros-indigo-roboteq-diagnostics (0.1.1-0saucy) saucy; urgency=high
+
+  * Fix name of python node to install.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Sat, 30 Nov 2013 05:00:00 -0000
+
+ros-indigo-roboteq-diagnostics (0.1.0-0saucy) saucy; urgency=high
+
+  * Basic catkin conversion, some include file rearrangement and cleanup.
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 28 Nov 2013 05:00:00 -0000
+
+
