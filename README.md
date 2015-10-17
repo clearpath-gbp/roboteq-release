@@ -1,3 +1,27 @@
+## roboteq (indigo) - 0.1.2-1
+
+The packages in the `roboteq` repository were released into the `indigo` distro by running `/usr/local/bin/bloom-release -r indigo -t indigo roboteq` on `Sat, 17 Oct 2015 00:02:42 -0000`
+
+These packages were released:
+- `roboteq_diagnostics`
+- `roboteq_driver`
+- `roboteq_msgs`
+
+Version of package(s) in repository `roboteq`:
+- upstream repository: https://github.com/g/roboteq.git
+- release repository: https://github.com/clearpath-gbp/roboteq-release.git
+- rosdistro version: `0.1.2-0`
+- old version: `0.1.2-0`
+- new version: `0.1.2-1`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## roboteq (jade) - 0.1.2-0
 
 The packages in the `roboteq` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release -r jade -t jade roboteq` on `Tue, 26 May 2015 18:00:03 -0000`
